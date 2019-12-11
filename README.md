@@ -1,5 +1,5 @@
 # 从清华大学所给的虚拟机（Ubuntu14.04) 中上传的初始代码，非原创，方便访问。 
-[原仓库](https://github.com/chyyuu/ucore_os_lab) 
+## [原仓库](https://github.com/chyyuu/ucore_os_lab) 
 
 # 介绍(2015)
 
