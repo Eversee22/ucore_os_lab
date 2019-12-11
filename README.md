@@ -1,4 +1,4 @@
-# 从清华大学所给的虚拟机（Ubuntu14.04) 中上传的初始代码（原链接[https://github.com/chyyuu/ucore_os_lab])，非原创，方便访问
+# 从清华大学所给的虚拟机（Ubuntu14.04) 中上传的初始代码（[原链接](https://github.com/chyyuu/ucore_os_lab])），非原创，方便访问
 # 介绍(2015)
 
 ucore OS是用于清华大学计算机系本科操作系统课程的OS教学试验内容。
